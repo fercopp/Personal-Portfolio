@@ -10934,4 +10934,8 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.link-secondary {
+  border: none;
+  border-radius: 10px;
 }/*# sourceMappingURL=styles.css.map */
